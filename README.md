@@ -8,3 +8,8 @@ Remember this is provided as is. I am not liable for how this works on you solut
 Web.Project.Environment.TraceDisabled.config
 --------------------------------------------
 Disables the trace verb from your IIS server
+
+
+Web.Project.Environment.HSTSHeadersEnabled.config
+-------------------------------------------------
+
