@@ -9,6 +9,9 @@ Web.Project.Environment.TraceDisabled.config
 --------------------------------------------
 Disables the trace verb from your IIS server
 
+Web.Project.Environment.Security.config	
+-------------------------------------------------
+Removed IIS webserver poster headers for asp.net, MVC and IIS server version
 
 Web.Project.Environment.HSTSHeadersEnabled.config
 -------------------------------------------------
