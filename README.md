@@ -9,6 +9,11 @@ Web.Project.Environment.TraceDisabled.config
 --------------------------------------------
 Disables the trace verb from your IIS server
 
+Web.Project.Environment.Disable-Google-FLoC.config
+--------------------------------------------------
+Disable the Google’s Federated Learning of Cohorts (FLoC) for visitors of your site.  
+See more her: https://plausible.io/blog/google-floc
+
 Web.Project.Environment.Security.config	
 -------------------------------------------------
 Removed IIS webserver poster headers for asp.net, MVC and IIS server version
